@@ -1,1 +1,12 @@
 remote_theme: rundocs/jekyll-rtd-theme
+
+title: Dr C's Python Support Pages
+email: William.Capehart@sdsmt.edu
+description: Dr Capehart's Support Page for Python @ SD Mines
+
+
+twitter_username: Bill_Capehart
+github_username:  wjcapehart
+sdmines_developer_homepage: https://www.sdsmt.edu/Directories/Personnel/Profile/Capehart,-William/
+site.email: William.Capehart@sdsmt.edu
+url: https://wjcapehart.github.io/AES_CEE_Python/
